@@ -1,5 +1,4 @@
-# HTML
-What is HTML?
+# What is HTMl
 
 
 HTML stands for Hyper Text Markup language and is one of the main front end coding language used to develop websites. 
